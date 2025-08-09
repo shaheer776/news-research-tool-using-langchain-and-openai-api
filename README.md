@@ -22,7 +22,7 @@ This user-friendly news research tool is designed for effortless information ret
 2.Navigate to the project directory:
 
 ```bash
-  cd 2_news_research_tool_project
+  cd news-research-tool-using-langchain-and-openai-api
 ```
 3. Install the required dependencies using pip:
 

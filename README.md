@@ -18,7 +18,7 @@ This user-friendly news research tool is designed for effortless information ret
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone [https://github.com/shaheer](https://github.com/shaheer776/news-research-tool-using-langchain-and-openai-api/edit/main/langchain.git
+  git clone [Github Link](https://github.com/shaheer776/news-research-tool-using-langchain-and-openai-api.git)
 ```
 2.Navigate to the project directory:
 

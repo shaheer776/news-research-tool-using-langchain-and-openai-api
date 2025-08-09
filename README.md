@@ -1,9 +1,8 @@
-# news-research-tool-using-langchain-and-openai-api
+# News Research Tool Using Langchain and OpenAI API
 This user-friendly news research tool is designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the provided blogs and news articles. The model outputs relevant answer to the query as well the source through which it was able to fetch that answer.
 
+<img width="2560" height="1240" alt="news_research_tool" src="https://github.com/user-attachments/assets/882056d6-44ee-4706-a9d9-87a600104f5e" />
 
-![](<img width="2560" height="1240" alt="news_research_tool" src="https://github.com/user-attachments/assets/23fee7a5-a660-48cc-94da-aa57a4143d14" />
-)
 
 ## Features
 
